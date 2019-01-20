@@ -1,0 +1,3 @@
+if (!canLeft) {
+	canLeft = true;
+}
